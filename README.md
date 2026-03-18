@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Full Stack Developer</p>
+<p align="left">I am Full-Stack Developer | MERN Stack | Building Scalable Web Applications</p>
 
 ###
 
@@ -10,7 +10,15 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">## About Me
+
+💼 Full-Stack Developer with hands-on experience in building scalable and user-centric web applications using the MERN stack.<br>
+
+📚 Currently learning System Design, Backend Optimization, and AI integration in modern applications.<br>
+
+🎯 Goal: To develop high-performance, production-ready systems and grow as a software engineer in real-world environments.<br>
+
+⚡ Strength: Strong problem-solving mindset with a focus on clean, efficient, and maintainable code..</p>
 
 ###
 
