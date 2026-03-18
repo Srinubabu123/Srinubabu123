@@ -10,8 +10,6 @@
 
 ###
 
-<p align="left">## About Me
-
 💼 Full-Stack Developer with hands-on experience in building scalable and user-centric web applications using the MERN stack.<br>
 
 📚 Currently learning System Design, Backend Optimization, and AI integration in modern applications.<br>
